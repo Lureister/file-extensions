@@ -33,6 +33,16 @@
       >
     </a>
   </div>
+  <div class="navbar-end">
+    <div class="navbar-item">
+      <a
+        class="button"
+        href="https://github.com/Lureister/file-extensions"
+        target="_blank"
+        class="is-link"
+      ><span class="icon"><i class="fab fa-github"></i></span><span>GitHub</span></a>
+    </div>
+  </div>
 </nav>
 <section
   class="hero is-text-white is-info"
@@ -46,6 +56,23 @@
       <h2 class="subtitle">
         An API of file extensions <i class="fas fa-file"></i>
       </h2>
+      <div class="content">
+        <div class="level">
+          <div class="level-left">
+            <span class="level-item">This is a readonly json-server. So you can use its features:</span>
+            <div class="level-item">
+              <a
+                class="button is-info"
+                target="_blank"
+                href="https://github.com/typicode/json-server"
+              >
+                <span class="icon"><i class="fas fa-eye"></i></span>
+                <span>Look here.</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -68,27 +95,25 @@
         <div class="column">
           <div class="card">
             <!-- language: json -->
-            <pre class="pretty-print has-background-dark">{
-              "FileExtensions": [{
-      "Name": ".323",
-      "DisplayName": "H.323 Internet Telephony File",
-      "Category": "text",
-      "MimeType": "text/h323"
+            <pre class="pretty-print has-background-dark">[{
+      "name": ".323",
+      "displayName": "H.323 Internet Telephony File",
+      "category": "text",
+      "mimeType": "text/h323"
     },
     {
-      "Name": ".3g2",
-      "DisplayName": "3GPP2 Multimedia File",
-      "Category": "video",
-      "MimeType": "video/3gpp2"
+      "name": ".3g2",
+      "displayName": "3GPP2 Multimedia File",
+      "category": "video",
+      "mimeType": "video/3gpp2"
     },
     {
-      "Name": ".3gp",
-      "DisplayName": "3GPP Media File",
-      "Category": "video",
-      "MimeType": "video/3gpp"
+      "name": ".3gp",
+      "displayName": "3GPP Media File",
+      "category": "video",
+      "mimeType": "video/3gpp"
     }
-  ]
-}</pre>
+  ]</pre>
           </div>
         </div>
       </div>
