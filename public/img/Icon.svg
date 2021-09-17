@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512.001" height="444.082" viewBox="0 0 490 425">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #395caa;
+        stroke-width: 39.309px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 420px;
+        fill: #fff;
+        font-family: "Tw Cen MT";
+        font-weight: 700;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <path id="Polygone_1" data-name="Polygone 1" class="cls-1" d="M466,212L367,405H123L24,212,123,20H367Z"/>
+  <text id="F" class="cls-2" x="148" y="347">F</text>
+</svg>
