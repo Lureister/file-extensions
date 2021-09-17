@@ -1,4120 +1,4120 @@
 {
-  "FileExtensions": [
+  "extensions.js": [
     {
-      "Name": ".323",
-      "DisplayName": "H.323 Internet Telephony File",
-      "Category": "text",
-      "MimeType": "text/h323"
+      "name": ".323",
+      "displayName": "H.323 Internet Telephony File",
+      "category": "text",
+      "mimeType": "text/h323"
     },
     {
-      "Name": ".3g2",
-      "DisplayName": "3GPP2 Multimedia File",
-      "Category": "video",
-      "MimeType": "video/3gpp2"
+      "name": ".3g2",
+      "displayName": "3GPP2 Multimedia File",
+      "category": "video",
+      "mimeType": "video/3gpp2"
     },
     {
-      "Name": ".3gp",
-      "DisplayName": "3GPP Media File",
-      "Category": "video",
-      "MimeType": "video/3gpp"
+      "name": ".3gp",
+      "displayName": "3GPP Media File",
+      "category": "video",
+      "mimeType": "video/3gpp"
     },
     {
-      "Name": ".3gp2",
-      "DisplayName": "3GPP Multimedia File",
-      "Category": "video",
-      "MimeType": "video/3gpp2"
+      "name": ".3gp2",
+      "displayName": "3GPP Multimedia File",
+      "category": "video",
+      "mimeType": "video/3gpp2"
     },
     {
-      "Name": ".3gpp",
-      "DisplayName": "3GPP Media File",
-      "Category": "video",
-      "MimeType": "video/3gpp"
+      "name": ".3gpp",
+      "displayName": "3GPP Media File",
+      "category": "video",
+      "mimeType": "video/3gpp"
     },
     {
-      "Name": ".7z",
-      "DisplayName": "7-Zip Compressed File",
-      "Category": "archive",
-      "MimeType": "application/x-7z-compressed"
+      "name": ".7z",
+      "displayName": "7-Zip Compressed File",
+      "category": "archive",
+      "mimeType": "application/x-7z-compressed"
     },
     {
-      "Name": ".aa",
-      "DisplayName": "Audible Audio Book File",
-      "Category": "audio",
-      "MimeType": "audio/audible"
+      "name": ".aa",
+      "displayName": "Audible Audio Book File",
+      "category": "audio",
+      "mimeType": "audio/audible"
     },
     {
-      "Name": ".AAC",
-      "DisplayName": "Advanced Audio Coding File",
-      "Category": "audio",
-      "MimeType": "audio/aac"
+      "name": ".AAC",
+      "displayName": "Advanced Audio Coding File",
+      "category": "audio",
+      "mimeType": "audio/aac"
     },
     {
-      "Name": ".aaf",
-      "DisplayName": "Advanced Authoring Format File",
-      "Category": "video",
-      "MimeType": "application/octet-stream"
+      "name": ".aaf",
+      "displayName": "Advanced Authoring Format File",
+      "category": "video",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".aax",
-      "DisplayName": "Audible Enhanced Audiobook File",
-      "Category": "audio",
-      "MimeType": "audio/vnd.audible.aax"
+      "name": ".aax",
+      "displayName": "Audible Enhanced Audiobook File",
+      "category": "audio",
+      "mimeType": "audio/vnd.audible.aax"
     },
     {
-      "Name": ".ac3",
-      "DisplayName": "Audio Codec 3 File",
-      "Category": "audio",
-      "MimeType": "audio/ac3"
+      "name": ".ac3",
+      "displayName": "Audio Codec 3 File",
+      "category": "audio",
+      "mimeType": "audio/ac3"
     },
     {
-      "Name": ".aca",
-      "DisplayName": "Agent Character Animation File",
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".aca",
+      "displayName": "Agent Character Animation File",
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".accda",
-      "DisplayName": "Access Add-in File",
-      "Category": "other",
-      "MimeType": "application/msaccess.addin"
+      "name": ".accda",
+      "displayName": "Access Add-in File",
+      "category": "other",
+      "mimeType": "application/msaccess.addin"
     },
     {
-      "Name": ".accdb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".accdb",
+      "displayName": "",
+      "category": null,
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".accdc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess.cab"
+      "name": ".accdc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess.cab"
     },
     {
-      "Name": ".accde",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".accde",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".accdr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess.runtime"
+      "name": ".accdr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess.runtime"
     },
     {
-      "Name": ".accdt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".accdt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".accdw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess.webapplication"
+      "name": ".accdw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess.webapplication"
     },
     {
-      "Name": ".accft",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess.ftemplate"
+      "name": ".accft",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess.ftemplate"
     },
     {
-      "Name": ".acx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/internet-property-stream"
+      "name": ".acx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/internet-property-stream"
     },
     {
-      "Name": ".AddIn",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".AddIn",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".ade",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".ade",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".adobebridge",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-bridge-url"
+      "name": ".adobebridge",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-bridge-url"
     },
     {
-      "Name": ".adp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".adp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".ADT",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/vnd.dlna.adts"
+      "name": ".ADT",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/vnd.dlna.adts"
     },
     {
-      "Name": ".ADTS",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/aac"
+      "name": ".ADTS",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/aac"
     },
     {
-      "Name": ".afm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".afm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ai",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/postscript"
+      "name": ".ai",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/postscript"
     },
     {
-      "Name": ".aif",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/aiff"
+      "name": ".aif",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/aiff"
     },
     {
-      "Name": ".aifc",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/aiff"
+      "name": ".aifc",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/aiff"
     },
     {
-      "Name": ".aiff",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/aiff"
+      "name": ".aiff",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/aiff"
     },
     {
-      "Name": ".air",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.adobe.air-application-installer-package+zip"
+      "name": ".air",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.adobe.air-application-installer-package+zip"
     },
     {
-      "Name": ".amc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/mpeg"
+      "name": ".amc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/mpeg"
     },
     {
-      "Name": ".anx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/annodex"
+      "name": ".anx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/annodex"
     },
     {
-      "Name": ".apk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.android.package-archive"
+      "name": ".apk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.android.package-archive"
     },
     {
-      "Name": ".apng",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/apng"
+      "name": ".apng",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/apng"
     },
     {
-      "Name": ".application",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-application"
+      "name": ".application",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-application"
     },
     {
-      "Name": ".art",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-jg"
+      "name": ".art",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-jg"
     },
     {
-      "Name": ".asa",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".asa",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".asax",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".asax",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".ascx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".ascx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".asd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".asd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".asf",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-asf"
+      "name": ".asf",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-asf"
     },
     {
-      "Name": ".ashx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".ashx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".asi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".asi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".asm",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".asm",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".asmx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".asmx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".aspx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".aspx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".asr",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-asf"
+      "name": ".asr",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-asf"
     },
     {
-      "Name": ".asx",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-asf"
+      "name": ".asx",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-asf"
     },
     {
-      "Name": ".atom",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/atom+xml"
+      "name": ".atom",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/atom+xml"
     },
     {
-      "Name": ".au",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/basic"
+      "name": ".au",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/basic"
     },
     {
-      "Name": ".avci",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/avci"
+      "name": ".avci",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/avci"
     },
     {
-      "Name": ".avcs",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/avcs"
+      "name": ".avcs",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/avcs"
     },
     {
-      "Name": ".avi",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-msvideo"
+      "name": ".avi",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-msvideo"
     },
     {
-      "Name": ".avif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/avif"
+      "name": ".avif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/avif"
     },
     {
-      "Name": ".avifs",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/avif-sequence"
+      "name": ".avifs",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/avif-sequence"
     },
     {
-      "Name": ".axa",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/annodex"
+      "name": ".axa",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/annodex"
     },
     {
-      "Name": ".axs",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/olescript"
+      "name": ".axs",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/olescript"
     },
     {
-      "Name": ".axv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/annodex"
+      "name": ".axv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/annodex"
     },
     {
-      "Name": ".bas",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".bas",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".bcpio",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-bcpio"
+      "name": ".bcpio",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-bcpio"
     },
     {
-      "Name": ".bin",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".bin",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".bmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/bmp"
+      "name": ".bmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/bmp"
     },
     {
-      "Name": ".c",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".c",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".cab",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".cab",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".caf",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-caf"
+      "name": ".caf",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-caf"
     },
     {
-      "Name": ".calx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-office.calx"
+      "name": ".calx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-office.calx"
     },
     {
-      "Name": ".cat",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-pki.seccat"
+      "name": ".cat",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-pki.seccat"
     },
     {
-      "Name": ".cc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".cd",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cd",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".cdda",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/aiff"
+      "name": ".cdda",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/aiff"
     },
     {
-      "Name": ".cdf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-cdf"
+      "name": ".cdf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-cdf"
     },
     {
-      "Name": ".cer",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-x509-ca-cert"
+      "name": ".cer",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-x509-ca-cert"
     },
     {
-      "Name": ".cfg",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cfg",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".chm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".chm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".class",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-java-applet"
+      "name": ".class",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-java-applet"
     },
     {
-      "Name": ".clp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msclip"
+      "name": ".clp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msclip"
     },
     {
-      "Name": ".cmd",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cmd",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".cmx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-cmx"
+      "name": ".cmx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-cmx"
     },
     {
-      "Name": ".cnf",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cnf",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".cod",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/cis-cod"
+      "name": ".cod",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/cis-cod"
     },
     {
-      "Name": ".config",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".config",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".contact",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-ms-contact"
+      "name": ".contact",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-ms-contact"
     },
     {
-      "Name": ".coverage",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".coverage",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".cpio",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-cpio"
+      "name": ".cpio",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-cpio"
     },
     {
-      "Name": ".cpp",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cpp",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".crd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-mscardfile"
+      "name": ".crd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-mscardfile"
     },
     {
-      "Name": ".crl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pkix-crl"
+      "name": ".crl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pkix-crl"
     },
     {
-      "Name": ".crt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-x509-ca-cert"
+      "name": ".crt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-x509-ca-cert"
     },
     {
-      "Name": ".cs",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cs",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".csdproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".csdproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".csh",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-csh"
+      "name": ".csh",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-csh"
     },
     {
-      "Name": ".csproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".csproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".css",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/css"
+      "name": ".css",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/css"
     },
     {
-      "Name": ".csv",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/csv"
+      "name": ".csv",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/csv"
     },
     {
-      "Name": ".cur",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".cur",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".czx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-czx"
+      "name": ".czx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-czx"
     },
     {
-      "Name": ".cxx",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".cxx",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".dat",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".dat",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".datasource",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".datasource",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".dbproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".dbproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".dcr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-director"
+      "name": ".dcr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-director"
     },
     {
-      "Name": ".def",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".def",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".deploy",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".deploy",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".der",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-x509-ca-cert"
+      "name": ".der",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-x509-ca-cert"
     },
     {
-      "Name": ".dgml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".dgml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".dib",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/bmp"
+      "name": ".dib",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/bmp"
     },
     {
-      "Name": ".dif",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-dv"
+      "name": ".dif",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-dv"
     },
     {
-      "Name": ".dir",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-director"
+      "name": ".dir",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-director"
     },
     {
-      "Name": ".disco",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".disco",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".divx",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/divx"
+      "name": ".divx",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/divx"
     },
     {
-      "Name": ".dll",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msdownload"
+      "name": ".dll",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msdownload"
     },
     {
-      "Name": ".dll.config",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".dll.config",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".dlm",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/dlm"
+      "name": ".dlm",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/dlm"
     },
     {
-      "Name": ".doc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msword"
+      "name": ".doc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msword"
     },
     {
-      "Name": ".docm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-word.document.macroEnabled.12"
+      "name": ".docm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-word.document.macroEnabled.12"
     },
     {
-      "Name": ".docx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      "name": ".docx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
     },
     {
-      "Name": ".dot",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msword"
+      "name": ".dot",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msword"
     },
     {
-      "Name": ".dotm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-word.template.macroEnabled.12"
+      "name": ".dotm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-word.template.macroEnabled.12"
     },
     {
-      "Name": ".dotx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+      "name": ".dotx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
     },
     {
-      "Name": ".dsp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".dsp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".dsw",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".dsw",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".dtd",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".dtd",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".dtsConfig",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".dtsConfig",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".dv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-dv"
+      "name": ".dv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-dv"
     },
     {
-      "Name": ".dvi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-dvi"
+      "name": ".dvi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-dvi"
     },
     {
-      "Name": ".dwf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "drawing/x-dwf"
+      "name": ".dwf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "drawing/x-dwf"
     },
     {
-      "Name": ".dwg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/acad"
+      "name": ".dwg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/acad"
     },
     {
-      "Name": ".dwp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".dwp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".dxf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-dxf"
+      "name": ".dxf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-dxf"
     },
     {
-      "Name": ".dxr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-director"
+      "name": ".dxr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-director"
     },
     {
-      "Name": ".eml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "message/rfc822"
+      "name": ".eml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "message/rfc822"
     },
     {
-      "Name": ".emf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/emf"
+      "name": ".emf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/emf"
     },
     {
-      "Name": ".emz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".emz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".eot",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-fontobject"
+      "name": ".eot",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-fontobject"
     },
     {
-      "Name": ".eps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/postscript"
+      "name": ".eps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/postscript"
     },
     {
-      "Name": ".es",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/ecmascript"
+      "name": ".es",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/ecmascript"
     },
     {
-      "Name": ".etl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/etl"
+      "name": ".etl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/etl"
     },
     {
-      "Name": ".etx",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-setext"
+      "name": ".etx",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-setext"
     },
     {
-      "Name": ".evy",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/envoy"
+      "name": ".evy",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/envoy"
     },
     {
-      "Name": ".exe",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.microsoft.portable-executable"
+      "name": ".exe",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.microsoft.portable-executable"
     },
     {
-      "Name": ".exe.config",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".exe.config",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".f4v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mp4"
+      "name": ".f4v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mp4"
     },
     {
-      "Name": ".fdf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.fdf"
+      "name": ".fdf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.fdf"
     },
     {
-      "Name": ".fif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/fractals"
+      "name": ".fif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/fractals"
     },
     {
-      "Name": ".filters",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".filters",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".fla",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".fla",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".flac",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/flac"
+      "name": ".flac",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/flac"
     },
     {
-      "Name": ".flr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "x-world/x-vrml"
+      "name": ".flr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "x-world/x-vrml"
     },
     {
-      "Name": ".flv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-flv"
+      "name": ".flv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-flv"
     },
     {
-      "Name": ".fsscript",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/fsharp-script"
+      "name": ".fsscript",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/fsharp-script"
     },
     {
-      "Name": ".fsx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/fsharp-script"
+      "name": ".fsx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/fsharp-script"
     },
     {
-      "Name": ".generictest",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".generictest",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".geojson",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/geo+json"
+      "name": ".geojson",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/geo+json"
     },
     {
-      "Name": ".gif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/gif"
+      "name": ".gif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/gif"
     },
     {
-      "Name": ".gpx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/gpx+xml"
+      "name": ".gpx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/gpx+xml"
     },
     {
-      "Name": ".group",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-ms-group"
+      "name": ".group",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-ms-group"
     },
     {
-      "Name": ".gsm",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-gsm"
+      "name": ".gsm",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-gsm"
     },
     {
-      "Name": ".gtar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-gtar"
+      "name": ".gtar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-gtar"
     },
     {
-      "Name": ".gz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-gzip"
+      "name": ".gz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-gzip"
     },
     {
-      "Name": ".h",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".h",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".hdf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-hdf"
+      "name": ".hdf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-hdf"
     },
     {
-      "Name": ".hdml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-hdml"
+      "name": ".hdml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-hdml"
     },
     {
-      "Name": ".heic",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/heic"
+      "name": ".heic",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/heic"
     },
     {
-      "Name": ".heics",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/heic-sequence"
+      "name": ".heics",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/heic-sequence"
     },
     {
-      "Name": ".heif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/heif"
+      "name": ".heif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/heif"
     },
     {
-      "Name": ".heifs",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/heif-sequence"
+      "name": ".heifs",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/heif-sequence"
     },
     {
-      "Name": ".hhc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-oleobject"
+      "name": ".hhc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-oleobject"
     },
     {
-      "Name": ".hhk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hhk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hhp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hhp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hlp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/winhlp"
+      "name": ".hlp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/winhlp"
     },
     {
-      "Name": ".hpp",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".hpp",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".hqx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/mac-binhex40"
+      "name": ".hqx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/mac-binhex40"
     },
     {
-      "Name": ".hta",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/hta"
+      "name": ".hta",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/hta"
     },
     {
-      "Name": ".htc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-component"
+      "name": ".htc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-component"
     },
     {
-      "Name": ".htm",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/html"
+      "name": ".htm",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/html"
     },
     {
-      "Name": ".html",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/html"
+      "name": ".html",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/html"
     },
     {
-      "Name": ".htt",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/webviewhtml"
+      "name": ".htt",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/webviewhtml"
     },
     {
-      "Name": ".hxa",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxa",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxe",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxe",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxh",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxh",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxq",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxq",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxs",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxs",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxt",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/html"
+      "name": ".hxt",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/html"
     },
     {
-      "Name": ".hxv",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".hxv",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".hxw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".hxw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".hxx",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".hxx",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".i",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".i",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".ical",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/calendar"
+      "name": ".ical",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/calendar"
     },
     {
-      "Name": ".icalendar",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/calendar"
+      "name": ".icalendar",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/calendar"
     },
     {
-      "Name": ".ico",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-icon"
+      "name": ".ico",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-icon"
     },
     {
-      "Name": ".ics",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/calendar"
+      "name": ".ics",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/calendar"
     },
     {
-      "Name": ".idl",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".idl",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".ief",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/ief"
+      "name": ".ief",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/ief"
     },
     {
-      "Name": ".ifb",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/calendar"
+      "name": ".ifb",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/calendar"
     },
     {
-      "Name": ".iii",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-iphone"
+      "name": ".iii",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-iphone"
     },
     {
-      "Name": ".inc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".inc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".inf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".inf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ini",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".ini",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".inl",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".inl",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".ins",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-internet-signup"
+      "name": ".ins",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-internet-signup"
     },
     {
-      "Name": ".ipa",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-ipa"
+      "name": ".ipa",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-ipa"
     },
     {
-      "Name": ".ipg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-ipg"
+      "name": ".ipg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-ipg"
     },
     {
-      "Name": ".ipproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".ipproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".ipsw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-ipsw"
+      "name": ".ipsw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-ipsw"
     },
     {
-      "Name": ".iqy",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-ms-iqy"
+      "name": ".iqy",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-ms-iqy"
     },
     {
-      "Name": ".isp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-internet-signup"
+      "name": ".isp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-internet-signup"
     },
     {
-      "Name": ".isma",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".isma",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ismv",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".ismv",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ite",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-ite"
+      "name": ".ite",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-ite"
     },
     {
-      "Name": ".itlp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-itlp"
+      "name": ".itlp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-itlp"
     },
     {
-      "Name": ".itms",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-itms"
+      "name": ".itms",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-itms"
     },
     {
-      "Name": ".itpc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-itunes-itpc"
+      "name": ".itpc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-itunes-itpc"
     },
     {
-      "Name": ".IVF",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ivf"
+      "name": ".IVF",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ivf"
     },
     {
-      "Name": ".jar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/java-archive"
+      "name": ".jar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/java-archive"
     },
     {
-      "Name": ".java",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".java",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".jck",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/liquidmotion"
+      "name": ".jck",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/liquidmotion"
     },
     {
-      "Name": ".jcz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/liquidmotion"
+      "name": ".jcz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/liquidmotion"
     },
     {
-      "Name": ".jfif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/pjpeg"
+      "name": ".jfif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/pjpeg"
     },
     {
-      "Name": ".jnlp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-java-jnlp-file"
+      "name": ".jnlp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-java-jnlp-file"
     },
     {
-      "Name": ".jpb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".jpb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".jpe",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/jpeg"
+      "name": ".jpe",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/jpeg"
     },
     {
-      "Name": ".jpeg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/jpeg"
+      "name": ".jpeg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/jpeg"
     },
     {
-      "Name": ".jpg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/jpeg"
+      "name": ".jpg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/jpeg"
     },
     {
-      "Name": ".js",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/javascript"
+      "name": ".js",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/javascript"
     },
     {
-      "Name": ".json",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/json"
+      "name": ".json",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/json"
     },
     {
-      "Name": ".jsx",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/jscript"
+      "name": ".jsx",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/jscript"
     },
     {
-      "Name": ".jsxbin",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".jsxbin",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".latex",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-latex"
+      "name": ".latex",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-latex"
     },
     {
-      "Name": ".library-ms",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/windows-library+xml"
+      "name": ".library-ms",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/windows-library+xml"
     },
     {
-      "Name": ".lit",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-reader"
+      "name": ".lit",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-reader"
     },
     {
-      "Name": ".loadtest",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".loadtest",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".lpk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".lpk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".lsf",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-la-asf"
+      "name": ".lsf",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-la-asf"
     },
     {
-      "Name": ".lst",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".lst",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".lsx",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-la-asf"
+      "name": ".lsx",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-la-asf"
     },
     {
-      "Name": ".lzh",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".lzh",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".m13",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msmediaview"
+      "name": ".m13",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msmediaview"
     },
     {
-      "Name": ".m14",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msmediaview"
+      "name": ".m14",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msmediaview"
     },
     {
-      "Name": ".m1v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".m1v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".m2t",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/vnd.dlna.mpeg-tts"
+      "name": ".m2t",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/vnd.dlna.mpeg-tts"
     },
     {
-      "Name": ".m2ts",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/vnd.dlna.mpeg-tts"
+      "name": ".m2ts",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/vnd.dlna.mpeg-tts"
     },
     {
-      "Name": ".m2v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".m2v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".m3u",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-mpegurl"
+      "name": ".m3u",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-mpegurl"
     },
     {
-      "Name": ".m3u8",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-mpegurl"
+      "name": ".m3u8",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-mpegurl"
     },
     {
-      "Name": ".m4a",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/m4a"
+      "name": ".m4a",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/m4a"
     },
     {
-      "Name": ".m4b",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/m4b"
+      "name": ".m4b",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/m4b"
     },
     {
-      "Name": ".m4p",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/m4p"
+      "name": ".m4p",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/m4p"
     },
     {
-      "Name": ".m4r",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-m4r"
+      "name": ".m4r",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-m4r"
     },
     {
-      "Name": ".m4v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-m4v"
+      "name": ".m4v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-m4v"
     },
     {
-      "Name": ".mac",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-macpaint"
+      "name": ".mac",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-macpaint"
     },
     {
-      "Name": ".mak",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".mak",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".man",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff-man"
+      "name": ".man",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff-man"
     },
     {
-      "Name": ".manifest",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-manifest"
+      "name": ".manifest",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-manifest"
     },
     {
-      "Name": ".map",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".map",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".master",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".master",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".mbox",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/mbox"
+      "name": ".mbox",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/mbox"
     },
     {
-      "Name": ".mda",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".mda",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".mdb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msaccess"
+      "name": ".mdb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msaccess"
     },
     {
-      "Name": ".mde",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msaccess"
+      "name": ".mde",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msaccess"
     },
     {
-      "Name": ".mdp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".mdp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".me",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff-me"
+      "name": ".me",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff-me"
     },
     {
-      "Name": ".mfp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-shockwave-flash"
+      "name": ".mfp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-shockwave-flash"
     },
     {
-      "Name": ".mht",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "message/rfc822"
+      "name": ".mht",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "message/rfc822"
     },
     {
-      "Name": ".mhtml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "message/rfc822"
+      "name": ".mhtml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "message/rfc822"
     },
     {
-      "Name": ".mid",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/mid"
+      "name": ".mid",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/mid"
     },
     {
-      "Name": ".midi",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/mid"
+      "name": ".midi",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/mid"
     },
     {
-      "Name": ".mix",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".mix",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".mk",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".mk",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".mk3d",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-matroska-3d"
+      "name": ".mk3d",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-matroska-3d"
     },
     {
-      "Name": ".mka",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-matroska"
+      "name": ".mka",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-matroska"
     },
     {
-      "Name": ".mkv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-matroska"
+      "name": ".mkv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-matroska"
     },
     {
-      "Name": ".mmf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-smaf"
+      "name": ".mmf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-smaf"
     },
     {
-      "Name": ".mno",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".mno",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".mny",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msmoney"
+      "name": ".mny",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msmoney"
     },
     {
-      "Name": ".mod",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mod",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mov",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/quicktime"
+      "name": ".mov",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/quicktime"
     },
     {
-      "Name": ".movie",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-sgi-movie"
+      "name": ".movie",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-sgi-movie"
     },
     {
-      "Name": ".mp2",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mp2",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mp2v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mp2v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mp3",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/mpeg"
+      "name": ".mp3",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/mpeg"
     },
     {
-      "Name": ".mp4",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mp4"
+      "name": ".mp4",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mp4"
     },
     {
-      "Name": ".mp4v",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mp4"
+      "name": ".mp4v",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mp4"
     },
     {
-      "Name": ".mpa",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mpa",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mpe",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mpe",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mpeg",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mpeg",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mpf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-mediapackage"
+      "name": ".mpf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-mediapackage"
     },
     {
-      "Name": ".mpg",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mpg",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mpp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-project"
+      "name": ".mpp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-project"
     },
     {
-      "Name": ".mpv2",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".mpv2",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".mqv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/quicktime"
+      "name": ".mqv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/quicktime"
     },
     {
-      "Name": ".ms",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff-ms"
+      "name": ".ms",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff-ms"
     },
     {
-      "Name": ".msg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-outlook"
+      "name": ".msg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-outlook"
     },
     {
-      "Name": ".msi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".msi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".mso",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".mso",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".mts",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/vnd.dlna.mpeg-tts"
+      "name": ".mts",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/vnd.dlna.mpeg-tts"
     },
     {
-      "Name": ".mtx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".mtx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".mvb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msmediaview"
+      "name": ".mvb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msmediaview"
     },
     {
-      "Name": ".mvc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-miva-compiled"
+      "name": ".mvc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-miva-compiled"
     },
     {
-      "Name": ".mxf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/mxf"
+      "name": ".mxf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/mxf"
     },
     {
-      "Name": ".mxp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-mmxp"
+      "name": ".mxp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-mmxp"
     },
     {
-      "Name": ".nc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-netcdf"
+      "name": ".nc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-netcdf"
     },
     {
-      "Name": ".nsc",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-asf"
+      "name": ".nsc",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-asf"
     },
     {
-      "Name": ".nws",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "message/rfc822"
+      "name": ".nws",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "message/rfc822"
     },
     {
-      "Name": ".ocx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".ocx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".oda",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/oda"
+      "name": ".oda",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/oda"
     },
     {
-      "Name": ".odb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.database"
+      "name": ".odb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.database"
     },
     {
-      "Name": ".odc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.chart"
+      "name": ".odc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.chart"
     },
     {
-      "Name": ".odf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.formula"
+      "name": ".odf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.formula"
     },
     {
-      "Name": ".odg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.graphics"
+      "name": ".odg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.graphics"
     },
     {
-      "Name": ".odh",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".odh",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".odi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.image"
+      "name": ".odi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.image"
     },
     {
-      "Name": ".odl",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".odl",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".odm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.text-master"
+      "name": ".odm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.text-master"
     },
     {
-      "Name": ".odp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.presentation"
+      "name": ".odp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.presentation"
     },
     {
-      "Name": ".ods",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.spreadsheet"
+      "name": ".ods",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.spreadsheet"
     },
     {
-      "Name": ".odt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.text"
+      "name": ".odt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.text"
     },
     {
-      "Name": ".oga",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/ogg"
+      "name": ".oga",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/ogg"
     },
     {
-      "Name": ".ogg",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/ogg"
+      "name": ".ogg",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/ogg"
     },
     {
-      "Name": ".ogv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/ogg"
+      "name": ".ogv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/ogg"
     },
     {
-      "Name": ".ogx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/ogg"
+      "name": ".ogx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/ogg"
     },
     {
-      "Name": ".one",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".one",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".onea",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".onea",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".onepkg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".onepkg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".onetmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".onetmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".onetoc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".onetoc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".onetoc2",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/onenote"
+      "name": ".onetoc2",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/onenote"
     },
     {
-      "Name": ".opus",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/ogg"
+      "name": ".opus",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/ogg"
     },
     {
-      "Name": ".orderedtest",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".orderedtest",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".osdx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/opensearchdescription+xml"
+      "name": ".osdx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/opensearchdescription+xml"
     },
     {
-      "Name": ".otf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/font-sfnt"
+      "name": ".otf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/font-sfnt"
     },
     {
-      "Name": ".otg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.graphics-template"
+      "name": ".otg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.graphics-template"
     },
     {
-      "Name": ".oth",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.text-web"
+      "name": ".oth",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.text-web"
     },
     {
-      "Name": ".otp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.presentation-template"
+      "name": ".otp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.presentation-template"
     },
     {
-      "Name": ".ots",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.spreadsheet-template"
+      "name": ".ots",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.spreadsheet-template"
     },
     {
-      "Name": ".ott",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.oasis.opendocument.text-template"
+      "name": ".ott",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.oasis.opendocument.text-template"
     },
     {
-      "Name": ".oxps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/oxps"
+      "name": ".oxps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/oxps"
     },
     {
-      "Name": ".oxt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openofficeorg.extension"
+      "name": ".oxt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openofficeorg.extension"
     },
     {
-      "Name": ".p10",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pkcs10"
+      "name": ".p10",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pkcs10"
     },
     {
-      "Name": ".p12",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-pkcs12"
+      "name": ".p12",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-pkcs12"
     },
     {
-      "Name": ".p7b",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-pkcs7-certificates"
+      "name": ".p7b",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-pkcs7-certificates"
     },
     {
-      "Name": ".p7c",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pkcs7-mime"
+      "name": ".p7c",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pkcs7-mime"
     },
     {
-      "Name": ".p7m",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pkcs7-mime"
+      "name": ".p7m",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pkcs7-mime"
     },
     {
-      "Name": ".p7r",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-pkcs7-certreqresp"
+      "name": ".p7r",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-pkcs7-certreqresp"
     },
     {
-      "Name": ".p7s",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pkcs7-signature"
+      "name": ".p7s",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pkcs7-signature"
     },
     {
-      "Name": ".pbm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-portable-bitmap"
+      "name": ".pbm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-portable-bitmap"
     },
     {
-      "Name": ".pcast",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-podcast"
+      "name": ".pcast",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-podcast"
     },
     {
-      "Name": ".pct",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/pict"
+      "name": ".pct",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/pict"
     },
     {
-      "Name": ".pcx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".pcx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".pcz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".pcz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".pdf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pdf"
+      "name": ".pdf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pdf"
     },
     {
-      "Name": ".pfb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".pfb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".pfm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".pfm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".pfx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-pkcs12"
+      "name": ".pfx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-pkcs12"
     },
     {
-      "Name": ".pgm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-portable-graymap"
+      "name": ".pgm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-portable-graymap"
     },
     {
-      "Name": ".pic",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/pict"
+      "name": ".pic",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/pict"
     },
     {
-      "Name": ".pict",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/pict"
+      "name": ".pict",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/pict"
     },
     {
-      "Name": ".pkgdef",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".pkgdef",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".pkgundef",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".pkgundef",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".pko",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-pki.pko"
+      "name": ".pko",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-pki.pko"
     },
     {
-      "Name": ".pls",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/scpls"
+      "name": ".pls",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/scpls"
     },
     {
-      "Name": ".pma",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-perfmon"
+      "name": ".pma",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-perfmon"
     },
     {
-      "Name": ".pmc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-perfmon"
+      "name": ".pmc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-perfmon"
     },
     {
-      "Name": ".pml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-perfmon"
+      "name": ".pml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-perfmon"
     },
     {
-      "Name": ".pmr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-perfmon"
+      "name": ".pmr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-perfmon"
     },
     {
-      "Name": ".pmw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-perfmon"
+      "name": ".pmw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-perfmon"
     },
     {
-      "Name": ".png",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/png"
+      "name": ".png",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/png"
     },
     {
-      "Name": ".pnm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-portable-anymap"
+      "name": ".pnm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-portable-anymap"
     },
     {
-      "Name": ".pnt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-macpaint"
+      "name": ".pnt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-macpaint"
     },
     {
-      "Name": ".pntg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-macpaint"
+      "name": ".pntg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-macpaint"
     },
     {
-      "Name": ".pnz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/png"
+      "name": ".pnz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/png"
     },
     {
-      "Name": ".pot",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint"
+      "name": ".pot",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint"
     },
     {
-      "Name": ".potm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint.template.macroEnabled.12"
+      "name": ".potm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint.template.macroEnabled.12"
     },
     {
-      "Name": ".potx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.presentationml.template"
+      "name": ".potx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.template"
     },
     {
-      "Name": ".ppa",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint"
+      "name": ".ppa",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint"
     },
     {
-      "Name": ".ppam",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint.addin.macroEnabled.12"
+      "name": ".ppam",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint.addin.macroEnabled.12"
     },
     {
-      "Name": ".ppm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-portable-pixmap"
+      "name": ".ppm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-portable-pixmap"
     },
     {
-      "Name": ".pps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint"
+      "name": ".pps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint"
     },
     {
-      "Name": ".ppsm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+      "name": ".ppsm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
     },
     {
-      "Name": ".ppsx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+      "name": ".ppsx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
     },
     {
-      "Name": ".ppt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint"
+      "name": ".ppt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint"
     },
     {
-      "Name": ".pptm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+      "name": ".pptm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
     },
     {
-      "Name": ".pptx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+      "name": ".pptx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
     },
     {
-      "Name": ".prf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/pics-rules"
+      "name": ".prf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/pics-rules"
     },
     {
-      "Name": ".prm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".prm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".prx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".prx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/postscript"
+      "name": ".ps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/postscript"
     },
     {
-      "Name": ".psc1",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/PowerShell"
+      "name": ".psc1",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/PowerShell"
     },
     {
-      "Name": ".psd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".psd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".psess",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".psess",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".psm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".psm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".psp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".psp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".pst",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-outlook"
+      "name": ".pst",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-outlook"
     },
     {
-      "Name": ".pub",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-mspublisher"
+      "name": ".pub",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-mspublisher"
     },
     {
-      "Name": ".pwz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint"
+      "name": ".pwz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint"
     },
     {
-      "Name": ".qht",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-html-insertion"
+      "name": ".qht",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-html-insertion"
     },
     {
-      "Name": ".qhtm",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-html-insertion"
+      "name": ".qhtm",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-html-insertion"
     },
     {
-      "Name": ".qt",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/quicktime"
+      "name": ".qt",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/quicktime"
     },
     {
-      "Name": ".qti",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-quicktime"
+      "name": ".qti",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-quicktime"
     },
     {
-      "Name": ".qtif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-quicktime"
+      "name": ".qtif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-quicktime"
     },
     {
-      "Name": ".qtl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-quicktimeplayer"
+      "name": ".qtl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-quicktimeplayer"
     },
     {
-      "Name": ".qxd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".qxd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ra",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-pn-realaudio"
+      "name": ".ra",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-pn-realaudio"
     },
     {
-      "Name": ".ram",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-pn-realaudio"
+      "name": ".ram",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-pn-realaudio"
     },
     {
-      "Name": ".rar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-rar-compressed"
+      "name": ".rar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-rar-compressed"
     },
     {
-      "Name": ".ras",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-cmu-raster"
+      "name": ".ras",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-cmu-raster"
     },
     {
-      "Name": ".rat",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/rat-file"
+      "name": ".rat",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/rat-file"
     },
     {
-      "Name": ".rc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".rc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".rc2",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".rc2",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".rct",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".rct",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".rdlc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".rdlc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".reg",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".reg",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".resx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".resx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".rf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/vnd.rn-realflash"
+      "name": ".rf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/vnd.rn-realflash"
     },
     {
-      "Name": ".rgb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-rgb"
+      "name": ".rgb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-rgb"
     },
     {
-      "Name": ".rgs",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".rgs",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".rm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.rn-realmedia"
+      "name": ".rm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.rn-realmedia"
     },
     {
-      "Name": ".rmi",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/mid"
+      "name": ".rmi",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/mid"
     },
     {
-      "Name": ".rmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.rn-rn_music_package"
+      "name": ".rmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.rn-rn_music_package"
     },
     {
-      "Name": ".rmvb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.rn-realmedia-vbr"
+      "name": ".rmvb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.rn-realmedia-vbr"
     },
     {
-      "Name": ".roff",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff"
+      "name": ".roff",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff"
     },
     {
-      "Name": ".rpm",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-pn-realaudio-plugin"
+      "name": ".rpm",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-pn-realaudio-plugin"
     },
     {
-      "Name": ".rqy",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-ms-rqy"
+      "name": ".rqy",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-ms-rqy"
     },
     {
-      "Name": ".rtf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/rtf"
+      "name": ".rtf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/rtf"
     },
     {
-      "Name": ".rtx",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/richtext"
+      "name": ".rtx",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/richtext"
     },
     {
-      "Name": ".rvt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".rvt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".ruleset",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".ruleset",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".s",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".s",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".safariextz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-safari-safariextz"
+      "name": ".safariextz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-safari-safariextz"
     },
     {
-      "Name": ".scd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msschedule"
+      "name": ".scd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msschedule"
     },
     {
-      "Name": ".scr",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".scr",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".sct",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/scriptlet"
+      "name": ".sct",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/scriptlet"
     },
     {
-      "Name": ".sd2",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-sd2"
+      "name": ".sd2",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-sd2"
     },
     {
-      "Name": ".sdp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/sdp"
+      "name": ".sdp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/sdp"
     },
     {
-      "Name": ".sea",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".sea",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".searchConnector-ms",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/windows-search-connector+xml"
+      "name": ".searchConnector-ms",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/windows-search-connector+xml"
     },
     {
-      "Name": ".setpay",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/set-payment-initiation"
+      "name": ".setpay",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/set-payment-initiation"
     },
     {
-      "Name": ".setreg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/set-registration-initiation"
+      "name": ".setreg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/set-registration-initiation"
     },
     {
-      "Name": ".settings",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".settings",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".sgimb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-sgimb"
+      "name": ".sgimb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-sgimb"
     },
     {
-      "Name": ".sgml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/sgml"
+      "name": ".sgml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/sgml"
     },
     {
-      "Name": ".sh",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-sh"
+      "name": ".sh",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-sh"
     },
     {
-      "Name": ".shar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-shar"
+      "name": ".shar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-shar"
     },
     {
-      "Name": ".shtml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/html"
+      "name": ".shtml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/html"
     },
     {
-      "Name": ".sit",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-stuffit"
+      "name": ".sit",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-stuffit"
     },
     {
-      "Name": ".sitemap",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".sitemap",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".skin",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".skin",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".skp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-koan"
+      "name": ".skp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-koan"
     },
     {
-      "Name": ".sldm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-powerpoint.slide.macroEnabled.12"
+      "name": ".sldm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-powerpoint.slide.macroEnabled.12"
     },
     {
-      "Name": ".sldx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.presentationml.slide"
+      "name": ".sldx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.slide"
     },
     {
-      "Name": ".slk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".slk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".sln",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".sln",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".slupkg-ms",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-license"
+      "name": ".slupkg-ms",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-license"
     },
     {
-      "Name": ".smd",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-smd"
+      "name": ".smd",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-smd"
     },
     {
-      "Name": ".smi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".smi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".smx",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-smd"
+      "name": ".smx",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-smd"
     },
     {
-      "Name": ".smz",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-smd"
+      "name": ".smz",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-smd"
     },
     {
-      "Name": ".snd",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/basic"
+      "name": ".snd",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/basic"
     },
     {
-      "Name": ".snippet",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".snippet",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".snp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".snp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".sql",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/sql"
+      "name": ".sql",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/sql"
     },
     {
-      "Name": ".sol",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".sol",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".sor",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".sor",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".spc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-pkcs7-certificates"
+      "name": ".spc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-pkcs7-certificates"
     },
     {
-      "Name": ".spl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/futuresplash"
+      "name": ".spl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/futuresplash"
     },
     {
-      "Name": ".spx",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/ogg"
+      "name": ".spx",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/ogg"
     },
     {
-      "Name": ".src",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-wais-source"
+      "name": ".src",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-wais-source"
     },
     {
-      "Name": ".srf",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".srf",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".SSISDeploymentManifest",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".SSISDeploymentManifest",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".ssm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/streamingmedia"
+      "name": ".ssm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/streamingmedia"
     },
     {
-      "Name": ".sst",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-pki.certstore"
+      "name": ".sst",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-pki.certstore"
     },
     {
-      "Name": ".stl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-pki.stl"
+      "name": ".stl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-pki.stl"
     },
     {
-      "Name": ".sv4cpio",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-sv4cpio"
+      "name": ".sv4cpio",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-sv4cpio"
     },
     {
-      "Name": ".sv4crc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-sv4crc"
+      "name": ".sv4crc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-sv4crc"
     },
     {
-      "Name": ".svc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".svc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".svg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/svg+xml"
+      "name": ".svg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/svg+xml"
     },
     {
-      "Name": ".swf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-shockwave-flash"
+      "name": ".swf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-shockwave-flash"
     },
     {
-      "Name": ".step",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/step"
+      "name": ".step",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/step"
     },
     {
-      "Name": ".stp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/step"
+      "name": ".stp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/step"
     },
     {
-      "Name": ".t",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff"
+      "name": ".t",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff"
     },
     {
-      "Name": ".tar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-tar"
+      "name": ".tar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-tar"
     },
     {
-      "Name": ".tcl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-tcl"
+      "name": ".tcl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-tcl"
     },
     {
-      "Name": ".testrunconfig",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".testrunconfig",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".testsettings",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".testsettings",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".tex",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-tex"
+      "name": ".tex",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-tex"
     },
     {
-      "Name": ".texi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-texinfo"
+      "name": ".texi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-texinfo"
     },
     {
-      "Name": ".texinfo",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-texinfo"
+      "name": ".texinfo",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-texinfo"
     },
     {
-      "Name": ".tgz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-compressed"
+      "name": ".tgz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-compressed"
     },
     {
-      "Name": ".thmx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-officetheme"
+      "name": ".thmx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-officetheme"
     },
     {
-      "Name": ".thn",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".thn",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".tif",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/tiff"
+      "name": ".tif",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/tiff"
     },
     {
-      "Name": ".tiff",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/tiff"
+      "name": ".tiff",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/tiff"
     },
     {
-      "Name": ".tlh",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".tlh",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".tli",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".tli",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".toc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".toc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".tr",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-troff"
+      "name": ".tr",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-troff"
     },
     {
-      "Name": ".trm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msterminal"
+      "name": ".trm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msterminal"
     },
     {
-      "Name": ".trx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".trx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".ts",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/vnd.dlna.mpeg-tts"
+      "name": ".ts",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/vnd.dlna.mpeg-tts"
     },
     {
-      "Name": ".tsv",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/tab-separated-values"
+      "name": ".tsv",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/tab-separated-values"
     },
     {
-      "Name": ".ttf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/font-sfnt"
+      "name": ".ttf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/font-sfnt"
     },
     {
-      "Name": ".tts",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/vnd.dlna.mpeg-tts"
+      "name": ".tts",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/vnd.dlna.mpeg-tts"
     },
     {
-      "Name": ".txt",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".txt",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".u32",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".u32",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".uls",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/iuls"
+      "name": ".uls",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/iuls"
     },
     {
-      "Name": ".user",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".user",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".ustar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ustar"
+      "name": ".ustar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ustar"
     },
     {
-      "Name": ".vb",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vb",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vbdproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vbdproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vbk",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/mpeg"
+      "name": ".vbk",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/mpeg"
     },
     {
-      "Name": ".vbproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vbproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vbs",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/vbscript"
+      "name": ".vbs",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/vbscript"
     },
     {
-      "Name": ".vcf",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/x-vcard"
+      "name": ".vcf",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/x-vcard"
     },
     {
-      "Name": ".vcproj",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".vcproj",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".vcs",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vcs",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vcxproj",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".vcxproj",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".vddproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vddproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vdp",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vdp",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vdproj",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vdproj",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vdx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-visio.viewer"
+      "name": ".vdx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-visio.viewer"
     },
     {
-      "Name": ".vml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vscontent",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".vscontent",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".vsct",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vsct",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vsd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vsd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".vsi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/ms-vsi"
+      "name": ".vsi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/ms-vsi"
     },
     {
-      "Name": ".vsix",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vsix"
+      "name": ".vsix",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vsix"
     },
     {
-      "Name": ".vsixlangpack",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vsixlangpack",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vsixmanifest",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vsixmanifest",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vsmdi",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".vsmdi",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".vspscc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vspscc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vss",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vss",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".vsscc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vsscc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vssettings",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vssettings",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vssscc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".vssscc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".vst",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vst",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".vstemplate",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".vstemplate",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".vsto",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-vsto"
+      "name": ".vsto",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-vsto"
     },
     {
-      "Name": ".vsw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vsw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".vsx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vsx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".vtt",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/vtt"
+      "name": ".vtt",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/vtt"
     },
     {
-      "Name": ".vtx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.visio"
+      "name": ".vtx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.visio"
     },
     {
-      "Name": ".wasm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/wasm"
+      "name": ".wasm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/wasm"
     },
     {
-      "Name": ".wav",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/wav"
+      "name": ".wav",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/wav"
     },
     {
-      "Name": ".wave",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/wav"
+      "name": ".wave",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/wav"
     },
     {
-      "Name": ".wax",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-ms-wax"
+      "name": ".wax",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-ms-wax"
     },
     {
-      "Name": ".wbk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msword"
+      "name": ".wbk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msword"
     },
     {
-      "Name": ".wbmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/vnd.wap.wbmp"
+      "name": ".wbmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/vnd.wap.wbmp"
     },
     {
-      "Name": ".wcm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-works"
+      "name": ".wcm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-works"
     },
     {
-      "Name": ".wdb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-works"
+      "name": ".wdb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-works"
     },
     {
-      "Name": ".wdp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/vnd.ms-photo"
+      "name": ".wdp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/vnd.ms-photo"
     },
     {
-      "Name": ".webarchive",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-safari-webarchive"
+      "name": ".webarchive",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-safari-webarchive"
     },
     {
-      "Name": ".webm",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/webm"
+      "name": ".webm",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/webm"
     },
     {
-      "Name": ".webp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/webp"
+      "name": ".webp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/webp"
     },
     {
-      "Name": ".webtest",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".webtest",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".wiq",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".wiq",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".wiz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/msword"
+      "name": ".wiz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/msword"
     },
     {
-      "Name": ".wks",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-works"
+      "name": ".wks",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-works"
     },
     {
-      "Name": ".WLMP",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/wlmoviemaker"
+      "name": ".WLMP",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/wlmoviemaker"
     },
     {
-      "Name": ".wlpginstall",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-wlpg-detect"
+      "name": ".wlpginstall",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-wlpg-detect"
     },
     {
-      "Name": ".wlpginstall3",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-wlpg3-detect"
+      "name": ".wlpginstall3",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-wlpg3-detect"
     },
     {
-      "Name": ".wm",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-wm"
+      "name": ".wm",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-wm"
     },
     {
-      "Name": ".wma",
-      "DisplayName": null,
-      "Category": "audio",
-      "MimeType": "audio/x-ms-wma"
+      "name": ".wma",
+      "displayName": null,
+      "category": "audio",
+      "mimeType": "audio/x-ms-wma"
     },
     {
-      "Name": ".wmd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-wmd"
+      "name": ".wmd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-wmd"
     },
     {
-      "Name": ".wmf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-msmetafile"
+      "name": ".wmf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-msmetafile"
     },
     {
-      "Name": ".wml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/vnd.wap.wml"
+      "name": ".wml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/vnd.wap.wml"
     },
     {
-      "Name": ".wmlc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.wap.wmlc"
+      "name": ".wmlc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.wap.wmlc"
     },
     {
-      "Name": ".wmls",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/vnd.wap.wmlscript"
+      "name": ".wmls",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/vnd.wap.wmlscript"
     },
     {
-      "Name": ".wmlsc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.wap.wmlscriptc"
+      "name": ".wmlsc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.wap.wmlscriptc"
     },
     {
-      "Name": ".wmp",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-wmp"
+      "name": ".wmp",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-wmp"
     },
     {
-      "Name": ".wmv",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-wmv"
+      "name": ".wmv",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-wmv"
     },
     {
-      "Name": ".wmx",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-wmx"
+      "name": ".wmx",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-wmx"
     },
     {
-      "Name": ".wmz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-wmz"
+      "name": ".wmz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-wmz"
     },
     {
-      "Name": ".woff",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/font-woff"
+      "name": ".woff",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/font-woff"
     },
     {
-      "Name": ".woff2",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/font-woff2"
+      "name": ".woff2",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/font-woff2"
     },
     {
-      "Name": ".wpl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-wpl"
+      "name": ".wpl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-wpl"
     },
     {
-      "Name": ".wps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-works"
+      "name": ".wps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-works"
     },
     {
-      "Name": ".wri",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-mswrite"
+      "name": ".wri",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-mswrite"
     },
     {
-      "Name": ".wrl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "x-world/x-vrml"
+      "name": ".wrl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "x-world/x-vrml"
     },
     {
-      "Name": ".wrz",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "x-world/x-vrml"
+      "name": ".wrz",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "x-world/x-vrml"
     },
     {
-      "Name": ".wsc",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/scriptlet"
+      "name": ".wsc",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/scriptlet"
     },
     {
-      "Name": ".wsdl",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".wsdl",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".wvx",
-      "DisplayName": null,
-      "Category": "video",
-      "MimeType": "video/x-ms-wvx"
+      "name": ".wvx",
+      "displayName": null,
+      "category": "video",
+      "mimeType": "video/x-ms-wvx"
     },
     {
-      "Name": ".x",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/directx"
+      "name": ".x",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/directx"
     },
     {
-      "Name": ".xaf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "x-world/x-vrml"
+      "name": ".xaf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "x-world/x-vrml"
     },
     {
-      "Name": ".xaml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xaml+xml"
+      "name": ".xaml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xaml+xml"
     },
     {
-      "Name": ".xap",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-silverlight-app"
+      "name": ".xap",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-silverlight-app"
     },
     {
-      "Name": ".xbap",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-ms-xbap"
+      "name": ".xbap",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-ms-xbap"
     },
     {
-      "Name": ".xbm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-xbitmap"
+      "name": ".xbm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-xbitmap"
     },
     {
-      "Name": ".xdr",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".xdr",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".xht",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xhtml+xml"
+      "name": ".xht",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xhtml+xml"
     },
     {
-      "Name": ".xhtml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xhtml+xml"
+      "name": ".xhtml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xhtml+xml"
     },
     {
-      "Name": ".xla",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xla",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xlam",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel.addin.macroEnabled.12"
+      "name": ".xlam",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel.addin.macroEnabled.12"
     },
     {
-      "Name": ".xlc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xlc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xld",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xld",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xlk",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xlk",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xll",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xll",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xlm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xlm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xls",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xls",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xlsb",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+      "name": ".xlsb",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
     },
     {
-      "Name": ".xlsm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel.sheet.macroEnabled.12"
+      "name": ".xlsm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel.sheet.macroEnabled.12"
     },
     {
-      "Name": ".xlsx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      "name": ".xlsx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     },
     {
-      "Name": ".xlt",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xlt",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xltm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel.template.macroEnabled.12"
+      "name": ".xltm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel.template.macroEnabled.12"
     },
     {
-      "Name": ".xltx",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+      "name": ".xltx",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
     },
     {
-      "Name": ".xlw",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-excel"
+      "name": ".xlw",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-excel"
     },
     {
-      "Name": ".xml",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xml",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".xmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".xmta",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".xmta",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".xof",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "x-world/x-vrml"
+      "name": ".xof",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "x-world/x-vrml"
     },
     {
-      "Name": ".XOML",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/plain"
+      "name": ".XOML",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/plain"
     },
     {
-      "Name": ".xpm",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-xpixmap"
+      "name": ".xpm",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-xpixmap"
     },
     {
-      "Name": ".xps",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/vnd.ms-xpsdocument"
+      "name": ".xps",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/vnd.ms-xpsdocument"
     },
     {
-      "Name": ".xrm-ms",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xrm-ms",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xsc",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".xsc",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".xsd",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xsd",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xsf",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xsf",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xsl",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xsl",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xslt",
-      "DisplayName": null,
-      "Category": "text",
-      "MimeType": "text/xml"
+      "name": ".xslt",
+      "displayName": null,
+      "category": "text",
+      "mimeType": "text/xml"
     },
     {
-      "Name": ".xsn",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".xsn",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".xss",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xml"
+      "name": ".xss",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xml"
     },
     {
-      "Name": ".xspf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/xspf+xml"
+      "name": ".xspf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/xspf+xml"
     },
     {
-      "Name": ".xtp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/octet-stream"
+      "name": ".xtp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/octet-stream"
     },
     {
-      "Name": ".xwd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "image/x-xwindowdump"
+      "name": ".xwd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "image/x-xwindowdump"
     },
     {
-      "Name": ".z",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/x-compress"
+      "name": ".z",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/x-compress"
     },
     {
-      "Name": ".zip",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": "application/zip"
+      "name": ".zip",
+      "displayName": null,
+      "category": "other",
+      "mimeType": "application/zip"
     },
     {
-      "Name": "application/fsharp-script",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".fsx"
+      "name": "application/fsharp-script",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".fsx"
     },
     {
-      "Name": "application/msaccess",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".adp"
+      "name": "application/msaccess",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".adp"
     },
     {
-      "Name": "application/msword",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".doc"
+      "name": "application/msword",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".doc"
     },
     {
-      "Name": "application/octet-stream",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".bin"
+      "name": "application/octet-stream",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".bin"
     },
     {
-      "Name": "application/onenote",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".one"
+      "name": "application/onenote",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".one"
     },
     {
-      "Name": "application/postscript",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".eps"
+      "name": "application/postscript",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".eps"
     },
     {
-      "Name": "application/step",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".step"
+      "name": "application/step",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".step"
     },
     {
-      "Name": "application/vnd.ms-excel",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".xls"
+      "name": "application/vnd.ms-excel",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".xls"
     },
     {
-      "Name": "application/vnd.ms-powerpoint",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".ppt"
+      "name": "application/vnd.ms-powerpoint",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".ppt"
     },
     {
-      "Name": "application/vnd.ms-works",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".wks"
+      "name": "application/vnd.ms-works",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".wks"
     },
     {
-      "Name": "application/vnd.visio",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".vsd"
+      "name": "application/vnd.visio",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".vsd"
     },
     {
-      "Name": "application/x-director",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".dir"
+      "name": "application/x-director",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".dir"
     },
     {
-      "Name": "application/x-msdos-program",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".exe"
+      "name": "application/x-msdos-program",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".exe"
     },
     {
-      "Name": "application/x-shockwave-flash",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".swf"
+      "name": "application/x-shockwave-flash",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".swf"
     },
     {
-      "Name": "application/x-x509-ca-cert",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".cer"
+      "name": "application/x-x509-ca-cert",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".cer"
     },
     {
-      "Name": "application/x-zip-compressed",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".zip"
+      "name": "application/x-zip-compressed",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".zip"
     },
     {
-      "Name": "application/xhtml+xml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".xhtml"
+      "name": "application/xhtml+xml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".xhtml"
     },
     {
-      "Name": "application/xml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".xml"
+      "name": "application/xml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".xml"
     },
     {
-      "Name": "audio/aac",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".AAC"
+      "name": "audio/aac",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".AAC"
     },
     {
-      "Name": "audio/aiff",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".aiff"
+      "name": "audio/aiff",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".aiff"
     },
     {
-      "Name": "audio/basic",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".snd"
+      "name": "audio/basic",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".snd"
     },
     {
-      "Name": "audio/mid",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".midi"
+      "name": "audio/mid",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".midi"
     },
     {
-      "Name": "audio/mp4",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".m4a"
+      "name": "audio/mp4",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".m4a"
     },
     {
-      "Name": "audio/wav",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".wav"
+      "name": "audio/wav",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".wav"
     },
     {
-      "Name": "audio/x-m4a",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".m4a"
+      "name": "audio/x-m4a",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".m4a"
     },
     {
-      "Name": "audio/x-mpegurl",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".m3u"
+      "name": "audio/x-mpegurl",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".m3u"
     },
     {
-      "Name": "audio/x-pn-realaudio",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".ra"
+      "name": "audio/x-pn-realaudio",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".ra"
     },
     {
-      "Name": "audio/x-smd",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".smd"
+      "name": "audio/x-smd",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".smd"
     },
     {
-      "Name": "image/bmp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".bmp"
+      "name": "image/bmp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".bmp"
     },
     {
-      "Name": "image/jpeg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".jpg"
+      "name": "image/jpeg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".jpg"
     },
     {
-      "Name": "image/pict",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".pic"
+      "name": "image/pict",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".pic"
     },
     {
-      "Name": "image/png",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".png"
+      "name": "image/png",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".png"
     },
     {
-      "Name": "image/x-png",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".png"
+      "name": "image/x-png",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".png"
     },
     {
-      "Name": "image/tiff",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".tiff"
+      "name": "image/tiff",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".tiff"
     },
     {
-      "Name": "image/x-macpaint",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".mac"
+      "name": "image/x-macpaint",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".mac"
     },
     {
-      "Name": "image/x-quicktime",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".qti"
+      "name": "image/x-quicktime",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".qti"
     },
     {
-      "Name": "message/rfc822",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".eml"
+      "name": "message/rfc822",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".eml"
     },
     {
-      "Name": "text/calendar",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".ics"
+      "name": "text/calendar",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".ics"
     },
     {
-      "Name": "text/html",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".html"
+      "name": "text/html",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".html"
     },
     {
-      "Name": "text/plain",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".txt"
+      "name": "text/plain",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".txt"
     },
     {
-      "Name": "text/scriptlet",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".wsc"
+      "name": "text/scriptlet",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".wsc"
     },
     {
-      "Name": "text/xml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".xml"
+      "name": "text/xml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".xml"
     },
     {
-      "Name": "video/3gpp",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".3gp"
+      "name": "video/3gpp",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".3gp"
     },
     {
-      "Name": "video/3gpp2",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".3gp2"
+      "name": "video/3gpp2",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".3gp2"
     },
     {
-      "Name": "video/mp4",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".mp4"
+      "name": "video/mp4",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".mp4"
     },
     {
-      "Name": "video/mpeg",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".mpg"
+      "name": "video/mpeg",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".mpg"
     },
     {
-      "Name": "video/quicktime",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".mov"
+      "name": "video/quicktime",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".mov"
     },
     {
-      "Name": "video/vnd.dlna.mpeg-tts",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".m2t"
+      "name": "video/vnd.dlna.mpeg-tts",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".m2t"
     },
     {
-      "Name": "video/x-dv",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".dv"
+      "name": "video/x-dv",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".dv"
     },
     {
-      "Name": "video/x-la-asf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".lsf"
+      "name": "video/x-la-asf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".lsf"
     },
     {
-      "Name": "video/x-ms-asf",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".asf"
+      "name": "video/x-ms-asf",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".asf"
     },
     {
-      "Name": "x-world/x-vrml",
-      "DisplayName": null,
-      "Category": "other",
-      "MimeType": ".xof"
+      "name": "x-world/x-vrml",
+      "displayName": null,
+      "category": "other",
+      "mimeType": ".xof"
     }
   ]
 }
