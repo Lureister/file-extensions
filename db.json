@@ -75,7 +75,7 @@
     {
       "Name": ".accda",
       "DisplayName": "Access Add-in File",
-      "Category": null,
+      "Category": "other",
       "MimeType": "application/msaccess.addin"
     },
     {
