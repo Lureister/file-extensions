@@ -1,5 +1,5 @@
 {
-  "extensions.js": [
+  "extensions.json": [
     {
       "name": ".323",
       "displayName": "H.323 Internet Telephony File",
