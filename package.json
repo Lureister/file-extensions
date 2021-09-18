@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
+  "engines": {
+    "node": "12.18.0"
+  },
   "scripts": {
     "start": "node server.js"
   },
